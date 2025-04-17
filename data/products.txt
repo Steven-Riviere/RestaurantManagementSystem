@@ -1,0 +1,4 @@
+mojito,boisson,15.5
+Virgin,Boisson,5.5
+tequila paf,Boisson,7.0
+Blanquette de veau,Plat,18.0

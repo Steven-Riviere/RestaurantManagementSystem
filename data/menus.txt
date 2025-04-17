@@ -1,0 +1,4 @@
+3,Menu de Bourgogne,2
+Blanquette de veau,18.0,Plat
+Virgin,5.5,Boisson
+4,Menu Chaleur du Sud,0
